@@ -7,7 +7,9 @@
           Está aplicación web es una práctica de un curso de VUE.js en la cual
           usamos una API de Digimons para poder obtener datos y así despues
           poder mostrarlos en la aplicación. Se puede mejorar bastante y se
-          tiene pensado ir mejorandola en un futuro.
+          tiene pensado ir mejorandola en un futuro. Funcionalidad de añadir y
+          eliminar favoritos, ademas de que esta informacion se guarda en el
+          localStorage
         </p>
       </div>
     </div>
